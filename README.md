@@ -9,6 +9,10 @@ I am a Computer Science Undergraduate University of Bristol.
 
 ## Tools & Technologies
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
 ## Selected Public Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexelwood14&repo=bayes-neuropixel&theme=dark)](https://github.com/alexelwood14/bayes-neuropixel) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexelwood14&repo=Mandelbrot-Viewer&theme=dark)](https://github.com/alexelwood14/Mandelbrot-Viewer) 
