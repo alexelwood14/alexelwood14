@@ -22,9 +22,11 @@ I am a Computer Science Undergraduate University of Bristol, aspiring to become 
 
 ## :clipboard: Selected Public Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexelwood14&repo=bayes-neuropixel&theme=dark)](https://github.com/alexelwood14/bayes-neuropixel) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexelwood14&repo=Mandelbrot-Viewer&theme=dark)](https://github.com/alexelwood14/Mandelbrot-Viewer) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexelwood14&repo=bayes-neuropixel&theme=dark)](https://github.com/alexelwood14/bayes-neuropixel) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexelwood14&repo=O2-LFP-modelling&theme=dark)](https://github.com/alexelwood14/O2-LFP-modelling) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexelwood14&repo=azure-connector-public&theme=dark)](https://github.com/alexelwood14/azure-connector-public) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spe-uob&repo=2021-ARMessaging&theme=dark)](https://github.com/spe-uob/2021-ARMessaging)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexelwood14&repo=Mandelbrot-Viewer&theme=dark)](https://github.com/alexelwood14/Mandelbrot-Viewer) 
 
 ## :iphone: Social Links
 
