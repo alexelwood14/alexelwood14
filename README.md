@@ -1,6 +1,6 @@
 ## :wave: Hi there!
 
-I am a Computer Science Undergraduate University of Bristol, aspiring to become a full time software engineer.
+I am a Computer Science Undergraduate University of Bristol.
 
 
 ## :bar_chart: GitHub Stats
