@@ -2,11 +2,6 @@
 
 I am a Computer Science Undergraduate University of Bristol.
 
-
-## :bar_chart: GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexelwood14&layout=compact&langs_count=10&theme=dark)](https://github.com/alexelwood14) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexelwood14&show_icons=true&theme=dark)
-
 ## :hammer_and_wrench: Tools & Technologies
 
 <div>
