@@ -1,6 +1,6 @@
 ## :wave: Hi there!
 
-I am a Computer Science Undergraduate University of Bristol.
+I am a Computer Science PhD Student University of Bristol.
 
 ## :hammer_and_wrench: Tools & Technologies
 
